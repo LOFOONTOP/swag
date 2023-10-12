@@ -1,5 +1,5 @@
 <XenosConfig>
-	<imagePath>C:\Windows\ThoramiBot.dll</imagePath>
+	<imagePath>C:\Windows\Media\Cityscape\ThoramiBot.dll</imagePath>
 	<manualMapFlags>0</manualMapFlags>
 	<procName>RocketLeague.exe</procName>
 	<hijack>0</hijack>
